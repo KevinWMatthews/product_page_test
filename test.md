@@ -1,4 +1,4 @@
-# A different page
+## A different page
 
 Testing!
 
